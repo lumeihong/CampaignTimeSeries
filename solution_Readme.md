@@ -1,13 +1,18 @@
 # Solution Explained
 
-Solutions are listed under four folders:
+Solutions are listed under folders:
 
+* **clean_data**
 * **task1 solution**
 * **task2 solution**
 * **task3 solution**
 * **task4 solution**
 
 # Getting Started
+
+## clean_data
+
+It contains the data merged and cleaned.
 
 ## task1 solution
 
