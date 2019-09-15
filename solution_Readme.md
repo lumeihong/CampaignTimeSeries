@@ -7,6 +7,8 @@ Solutions are listed under four folders:
 * **task3 solution**
 * **task4 solution**
 
+# Getting Started
+
 ## task1 solution
 
 ### create dataset sql.docx: 
