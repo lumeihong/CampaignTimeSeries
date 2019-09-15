@@ -80,7 +80,7 @@ It contains the data merged and cleaned.
 
 ### databricks_spark_sql.ipynb:
 
-* Online databricks community was registered first in order to run python and spark sql.
+* Online databricks community was registered first in order to run python and spark sql: https://community.cloud.databricks.com/?o=686829070189825#notebook/2759158575234159/command/2759158575234174.
 * Simple sql data selection and spark dataframe are practiced using MovieLens data.
 
 ### ml-latest:
