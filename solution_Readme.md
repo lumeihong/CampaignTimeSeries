@@ -18,9 +18,10 @@ It contains the data merged and cleaned.
 
 ### create dataset sql.docx:
 
-It contains all SQL for 1. creating table, 2. inserting data using batch insertion 
-SQL was written in MySql console in pythonanywhere: https://www.pythonanywhere.com/user/meihong/databases/
-Postgres was not available for pythonanywhere free account
+* It contains all SQL for 1. creating table, 2. inserting data using batch insertion 
+* SQL was written in MySql console in pythonanywhere: https://www.pythonanywhere.com/user/meihong/databases/
+* Postgres was not available for pythonanywhere free account
+
 ### data_cleaning.ipynb:
 
 * fill empty values
@@ -44,35 +45,44 @@ Postgres was not available for pythonanywhere free account
 
 ### forcast_analysis.ipynb:
 
+* analyse trend for impressions, clicks and conversions. Focus on impressions only for now
+* decompose impressions by its trend, seasonality, and noise
+* choose ARIMA model as it is currently the most popular timeseries foracst model
+* try to find I by differencing impressions by 1 and 2
+* try to find AR and MA (p and q) by plotting ACF and PACF charts
+* try to fit the ARIMA model using estimated variables
+* try to train the dataset and test the dataset
+* try prediction for 1 week impressions for each channel
+
 ## task3 solution
 
 ### Click Analysis.jpg:
 
-It shows visualization of number of clicks by country, channel_name, business_vertical respectively. It was done in Tableau.
+* It shows visualization of number of clicks by country, channel_name, business_vertical respectively. It was done in Tableau.
 
 ### Conversion Analysis.jpg:
 
-It shows visualization of number of conversions by country, channel_name, business_vertical respectively. It was done in Tableau.
+* It shows visualization of number of conversions by country, channel_name, business_vertical respectively. It was done in Tableau.
 
 ### Impression Analysis.jpg:
 
-It shows visualization of number of impressions by country, channel_name, business_vertical respectively. It was done in Tableau.
+* It shows visualization of number of impressions by country, channel_name, business_vertical respectively. It was done in Tableau.
 
 ### Impressions and Clicks Trend.jpg:
 
-It shows visualization of cumulative increase of impressions and clicks by channel_name and region over time. It was done in Tableau.
+* It shows visualization of cumulative increase of impressions and clicks by channel_name and region over time. It was done in Tableau.
 
 ### Total Spend CPM.jpg:
 
-It shows visualization of total spend CPM by country. It was done in Tableau.
+* It shows visualization of total spend CPM by country. It was done in Tableau.
 
 ## task4 solution
 
 ### databricks_spark_sql.ipynb:
 
-Online databricks community was registered first in order to run python and spark sql.
-Simple sql data selection and spark dataframe are practiced using MovieLens data.
+* Online databricks community was registered first in order to run python and spark sql.
+* Simple sql data selection and spark dataframe are practiced using MovieLens data.
 
 ### ml-latest:
 
-MovieLens full set of data downloaded from https://grouplens.org/datasets/. 
+* MovieLens full set of data downloaded from https://grouplens.org/datasets/. 
