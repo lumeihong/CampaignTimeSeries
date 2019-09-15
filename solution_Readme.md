@@ -1,12 +1,11 @@
 # Solution Explained
 
 Solutions are listed under four folders:
-'''
-*task1 solution
-*task2 solution
-*task3 solution
-*task4 solution
-'''
+
+* **task1 solution**
+* **task2 solution**
+* **task3 solution**
+* **task4 solution**
 
 ## task1 solution
 
