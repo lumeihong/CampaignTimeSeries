@@ -16,13 +16,29 @@ It contains the data merged and cleaned.
 
 ## task1 solution
 
-### create dataset sql.docx: 
+### create dataset sql.docx:
+
 It contains all SQL for 1. creating table, 2. inserting data using batch insertion 
 SQL was written in MySql console in pythonanywhere: https://www.pythonanywhere.com/user/meihong/databases/
 Postgres was not available for pythonanywhere free account
 ### data_cleaning.ipynb:
+
+* fill empty values
+* clean missing data
+* merge multiple csv files
+* save to campnew file in clean_data folder
+
 ### data_analysis.ipynb:
+
+* plot impressions, total clicks, conversions by country, channel_name, and business_vertical
+* plot top 20 sum of impressions and clicks partitioned by channel_name and region for strategy_id =3718750
+* plot cumulative sum of impressions and clicks over date in ascending order for strategy_id =3718750
+* plot cumulative sum of impressions and clicks by channel_name and region over date in ascending order for strategy_id =3718750
+* plot some findings
+
 ### other_EDA.ipynb:
+
+* plot impressions, total clicks, conversions histograms
 
 ## task2 solution
 
