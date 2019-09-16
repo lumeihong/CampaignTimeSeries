@@ -43,16 +43,24 @@ It contains the data merged and cleaned.
 
 ## task2 solution
 
-### forcast_analysis.ipynb:
+### forcast_analysis_ver1.ipynb:
 
-* analyse trend for impressions, clicks and conversions. Focus on impressions only for now
+* analyse trend for impressions, clicks and conversions. Focus on impressions only for now. Analyze all channels
 * decompose impressions by its trend, seasonality, and noise
 * choose ARIMA model as it is currently the most popular timeseries foracst model
 * try to find I by differencing impressions by 1 and 2
 * try to find AR and MA (p and q) by plotting ACF and PACF charts
 * try to fit the ARIMA model using estimated variables
 * try to train the dataset and test the dataset
-* try prediction for 1 week impressions for each channel
+* try prediction and plot the prediction result
+
+### forcast_analysis_ver2.ipynb:
+
+* same analysis process as forcast_analysis_ver1.ipynb. Analyze impressions and only Mobile channel for period before 26Sep2018
+
+### forcast_analysis_ver3.ipynb:
+
+* same analysis process as forcast_analysis_ver1.ipynb. Analyze clicks and only Display channel for period before 26Sep2018
 
 ## task3 solution
 
