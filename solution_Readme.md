@@ -61,12 +61,14 @@ It contains the data merged and cleaned.
 ### forecast_analysis_ver2.ipynb:
 
 * analyze impressions and only Mobile channel for period before 26Sep2018. Same analysis process as forcast_analysis_ver1.ipynb
+* Test MSE: 490615.495
 ![Prediction plot](https://github.com/lumeihong/data_science/blob/master/task2%20solution/prediction_ver2.jpg)
 ##### The prediction didn't finish running as it takes long time, therefore the plot was not completed.
 
 ### forecast_analysis_ver3.ipynb:
 
 * analyze impressions and only Display channel for period before 26Sep2018. Same analysis process as forcast_analysis_ver1.ipynb
+* Test MSE: 
 ![Prediction plot](https://github.com/lumeihong/data_science/blob/master/task2%20solution/prediction_ver3.jpg)
 ##### The prediction didn't finish running as it takes long time, therefore the plot was not completed.
 
