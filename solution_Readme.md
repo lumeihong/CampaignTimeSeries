@@ -53,12 +53,10 @@ It contains the data merged and cleaned.
 * try to fit the ARIMA model using estimated variables
 * try to train the dataset and test the dataset
 * try prediction and plot the prediction result
-
 * first prediction result is: 
   * model ARIMA(4,1,6)
   * test MSE: 441642.836, which means in average the model is wrong by about 441642.836 impressions for each prediction made
-![Prediction plot](/Users/Chloe/Desktop/prediction_ver1.jpg)
-Format: ![Alt Text](url)
+* ![Prediction plot](/Users/Chloe/Desktop/prediction_ver1.jpg)
 
 ### forecast_analysis_ver2.ipynb:
 
