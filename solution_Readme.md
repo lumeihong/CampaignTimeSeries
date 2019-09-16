@@ -14,7 +14,7 @@ Solutions are listed under folders:
 
 It contains the data merged and cleaned.
 
-## <u>task1 solution</u>
+## <strong>task1 solution</strong>
 
 ### create dataset sql.docx:
 
