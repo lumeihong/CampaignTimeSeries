@@ -88,24 +88,26 @@ It contains the data merged and cleaned.
 * analyze impressions and only Display channel for period before 26Sep2018. Same analysis process as forcast_analysis_ver1.ipynb
 * Test MSE: 77272.631
 ![Prediction plot](https://github.com/lumeihong/data_science/blob/master/task2%20solution/prediction_ver3.jpg)
-* forecast result: he impressions for Display channel at 2018-10-02 is 1.620175, at 2018-10-09 is 1.688434
+* forecast result: he impressions for Display channel at 2018-10-02 is -43.852396, at 2018-10-09 is -57.017579
+* comment: this forecast result is wrong, the model has to be tried with other pdq variables and trained, which requires more time
 
 | Date  | Impressions |
 | :---:  | :---:  |
-| 2018-09-26  | 1.804699  |
-| 2018-09-27  | 1.420678  |
-| 2018-09-28  | 2.203231  |
-| 2018-09-29  | 1.841132  |
-| 2018-09-30  | 1.573274  |
-| 2018-10-01  | 1.657311  |
-| 2018-10-02  | 1.620175  |
-| 2018-10-03  | 1.702276  |
-| 2018-10-04  | 1.716765  |
-| 2018-10-05  | 1.690648  |
-| 2018-10-06  | 1.688740  |
-| 2018-10-07  | 1.680014 |
-| 2018-10-08  | 1.683780  |
-| 2018-10-09  | 1.688434  |
+| 2018-09-26  | -59.572501 |
+| 2018-09-27  | -11.221328  |
+| 2018-09-28  | 2.125909  |
+| 2018-09-29  | -26.901917  |
+| 2018-09-30  | -58.436155  |
+| 2018-10-01  | -59.436806  |
+| 2018-10-02  | -43.852396  |
+| 2018-10-03  | -41.451798  |
+| 2018-10-04  | -53.603554  |
+| 2018-10-05  | -61.283525  |
+| 2018-10-06  | -56.877207  |
+| 2018-10-07  | -50.803637 |
+| 2018-10-08  | -52.093063  |
+| 2018-10-09  | -57.017579  |
+
 ## <ins>task3 solution</ins>
 
 ### Click Analysis.jpg:
