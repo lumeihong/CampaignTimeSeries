@@ -108,6 +108,11 @@ It contains the data merged and cleaned.
 | 2018-10-08  | -52.093063  |
 | 2018-10-09  | -57.017579  |
 
+#### task2 solution further improvements:
+** more pdq variables could be try-out to find the optimal model
+** the cross-validation could be done to validate model
+** other plotting (like scatter plot) could be done to better visualize results
+
 ## <ins>task3 solution</ins>
 
 ### Click Analysis.jpg:
