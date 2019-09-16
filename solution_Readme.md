@@ -43,7 +43,7 @@ It contains the data merged and cleaned.
 
 ## task2 solution
 
-### forcast_analysis_ver1.ipynb:
+### forecast_analysis_ver1.ipynb:
 
 * analyse trend for impressions, clicks and conversions. Focus on impressions only for now. Analyze all channels
 * decompose impressions by its trend, seasonality, and noise
@@ -54,11 +54,15 @@ It contains the data merged and cleaned.
 * try to train the dataset and test the dataset
 * try prediction and plot the prediction result
 
-### forcast_analysis_ver2.ipynb:
+* First prediction result is: 
+** model ARIMA(4,1,6)
+** test MSE: 441642.836, which means in average the model is wrong by about 441642.836 impressions for each prediction made.
+
+### forecast_analysis_ver2.ipynb:
 
 * same analysis process as forcast_analysis_ver1.ipynb. Analyze impressions and only Mobile channel for period before 26Sep2018
 
-### forcast_analysis_ver3.ipynb:
+### forecast_analysis_ver3.ipynb:
 
 * same analysis process as forcast_analysis_ver1.ipynb. Analyze clicks and only Display channel for period before 26Sep2018
 
