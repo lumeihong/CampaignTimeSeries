@@ -68,7 +68,7 @@ It contains the data merged and cleaned.
 ### forecast_analysis_ver3.ipynb:
 
 * analyze impressions and only Display channel for period before 26Sep2018. Same analysis process as forcast_analysis_ver1.ipynb
-* Test MSE: 
+* Test MSE: 77272.631
 ![Prediction plot](https://github.com/lumeihong/data_science/blob/master/task2%20solution/prediction_ver3.jpg)
 
 ## <ins>task3 solution</ins>
