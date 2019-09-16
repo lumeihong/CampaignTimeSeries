@@ -65,6 +65,9 @@ It contains the data merged and cleaned.
 * Test MSE: 490615.495
 ![Prediction plot](https://github.com/lumeihong/data_science/blob/master/task2%20solution/prediction_ver2.jpg)
 * forecast result: he impressions for Mobile channel at 2018-10-02 is 1.620175, at 2018-10-08 is 1.688434
+  | Attempt | #1  | 
+  | :---:   | :-: | 
+  | Seconds | 301 | 
   2018-09-26    1.804699
   2018-09-27    1.420678
   2018-09-28    2.203231
