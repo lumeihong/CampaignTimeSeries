@@ -109,9 +109,10 @@ It contains the data merged and cleaned.
 | 2018-10-09  | -57.017579  |
 
 ### task2 solution further improvements:
-> more pdq variables could be try-out to find the optimal model
-> the cross-validation could be done to validate model
+- [x] more pdq variables could be try-out to find the optimal model
+- [x] the cross-validation could be done to validate model
 - [x] other plotting (like scatter plot) could be done to better visualize results
+- [x] personally more study & understanding about forecast models
 
 ## <ins>task3 solution</ins>
 
