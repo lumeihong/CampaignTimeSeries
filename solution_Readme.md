@@ -57,6 +57,8 @@ It contains the data merged and cleaned.
 * first prediction result is: 
   * model ARIMA(4,1,6)
   * test MSE: 441642.836, which means in average the model is wrong by about 441642.836 impressions for each prediction made
+![Prediction plot](/Users/Chloe/Desktop/prediction_ver1.jpg)
+Format: ![Alt Text](url)
 
 ### forecast_analysis_ver2.ipynb:
 
@@ -64,7 +66,7 @@ It contains the data merged and cleaned.
 
 ### forecast_analysis_ver3.ipynb:
 
-* analyze clicks and only Display channel for period before 26Sep2018. Same analysis process as forcast_analysis_ver1.ipynb
+* analyze impressions and only Display channel for period before 26Sep2018. Same analysis process as forcast_analysis_ver1.ipynb
 
 ## task3 solution
 
