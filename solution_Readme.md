@@ -112,23 +112,25 @@ It contains the data merged and cleaned.
 
 ### Click Analysis.jpg:
 
-* It shows visualization of number of clicks by country, channel_name, business_vertical respectively. It was done in Tableau.
+* It shows visualization of number of clicks by country, channel_name, business_vertical respectively. It was done in Tableau. https://public.tableau.com/profile/meihong2019#!/vizhome/Campdataanalysis/ClicksAnalysis 
 
 ### Conversion Analysis.jpg:
 
-* It shows visualization of number of conversions by country, channel_name, business_vertical respectively. It was done in Tableau.
+* It shows visualization of number of conversions by country, channel_name, business_vertical respectively. It was done in Tableau. https://public.tableau.com/profile/meihong2019#!/vizhome/Campdataanalysis/ConversionsAnalysis
 
 ### Impression Analysis.jpg:
 
-* It shows visualization of number of impressions by country, channel_name, business_vertical respectively. It was done in Tableau.
+* It shows visualization of number of impressions by country, channel_name, business_vertical respectively. It was done in Tableau. https://public.tableau.com/profile/meihong2019#!/vizhome/Campdataanalysis/ImpressionsAnalysis
 
 ### Impressions and Clicks Trend.jpg:
 
-* It shows visualization of cumulative increase of impressions and clicks by channel_name and region over time. It was done in Tableau.
+* It shows visualization of cumulative increase of impressions and clicks by channel_name and region over time. It was done in Tableau. https://public.tableau.com/profile/meihong2019#!/vizhome/Campdataanalysis/ImpressionsClicksTrend
 
 ### Total Spend CPM.jpg:
 
-* It shows visualization of total spend CPM by country. It was done in Tableau.
+* It shows visualization of total spend CPM by country. It was done in Tableau. https://public.tableau.com/profile/meihong2019#!/vizhome/Campdataanalysis/TotalSpendCPM
+
+#### as it was developed using Tableau Community version, the analysis would be published online before saving. If required, I will delete the results from online
 
 ## <ins>task4 solution</ins>
 
