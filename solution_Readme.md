@@ -10,7 +10,7 @@ Solutions are listed under folders:
 
 # Getting Started
 
-## clean_data
+## <ins>clean_data</ins>
 
 It contains the data merged and cleaned.
 
@@ -41,7 +41,7 @@ It contains the data merged and cleaned.
 
 * plot impressions, total clicks, conversions histograms
 
-## task2 solution
+## <ins>task2 solution</ins>
 
 ### forecast_analysis_ver1.ipynb:
 
@@ -70,7 +70,7 @@ It contains the data merged and cleaned.
 ![Prediction plot](https://github.com/lumeihong/data_science/blob/master/task2%20solution/prediction_ver3.jpg)
 ##### The prediction didn't finish running as it takes long time, therefore the plot was not completed.
 
-## task3 solution
+## <ins>task3 solution</ins>
 
 ### Click Analysis.jpg:
 
@@ -92,7 +92,7 @@ It contains the data merged and cleaned.
 
 * It shows visualization of total spend CPM by country. It was done in Tableau.
 
-## task4 solution
+## <ins>task4 solution</ins>
 
 ### databricks_spark_sql.ipynb:
 
